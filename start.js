@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');             
-const token = "6420759400:AAESD8K1CGMdPXuZYIsEMl6XQWUgxpb3Ff8";  
+const token = "ISI TOKEN BOT MU";  
 const bot = new TelegramBot(token, { polling: true });      
 const fs = require('fs');
 const figlet = require('figlet');
@@ -40,7 +40,7 @@ console.log(
 
       //data api
       const linkapi = 'https://xzn.wtf/'
-      const apikey = 'amfcode'
+      const apikey = 'ISI APIKEYMU'
 
 
     const command = '/instagram';     
