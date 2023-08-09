@@ -1,0 +1,26 @@
+{
+  "name": "ariganteng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start.js": "nodemon start.js",
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "figlet": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "jsdom": "^22.1.0",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22",
+    "puppeteer": "^21.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
